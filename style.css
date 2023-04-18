@@ -1,0 +1,17 @@
+body
+{
+  background: #80c6ff;
+}
+
+#score
+{
+  font-size: 30px;
+  margin: 90px ;
+}
+
+#timer
+{
+    font-size:30px;
+    float: right;
+    margin: 90px;
+}
